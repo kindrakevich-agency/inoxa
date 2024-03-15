@@ -8,6 +8,7 @@ In index.html you will see main content.
 
 Project steps:
 - [x] Prepare initial design / deploy to github
+- [x] Added auto deploy to production 
 - [ ] Translate to Ukrainian, prepare texts
 - [ ] Fix headings (H1,H2, H3)
 - [ ] Fix metatags
