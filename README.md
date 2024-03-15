@@ -1,5 +1,12 @@
-# INOXA project
-Easy way to sale your property
+<p align="center">
+  <h1>INOXA project</h1>
+</p>
+
+<p align="center">⚡ Easy way to sale your property 🔍</p>
+
+<h4 align="center">
+  <a href="https://inoxa.es">Website</a> |
+</h4>
 
 In index.html you will see main content.
 
