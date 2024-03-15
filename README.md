@@ -11,3 +11,6 @@ Project steps:
 - [ ] Add robots.txt
 - [ ] Translate to English, Polish, Spanish (will do with Oxana)
 - [ ] Deploy to production :tada:
+
+> [!NOTE]
+> For each language we must prepare new branch.
